@@ -3,7 +3,7 @@
 Este projeto calcula o Índice de Massa Corporal (IMC) com base no peso e altura fornecidos pelo usuário.
 
 #Como usar#
-1. Execute o arquivo `imc.py`.
+1. Execute o arquivo `Calculoimc.py'
 2. Insira seu peso (em kg) e altura (em metros).
 3. O programa exibirá seu IMC e a classificação correspondente.
 
